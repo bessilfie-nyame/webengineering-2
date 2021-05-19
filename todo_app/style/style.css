@@ -1,0 +1,28 @@
+body {
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	font-size: 1.5em;
+}
+
+#build {
+	color: black;
+}
+
+#test {
+	color: blue;
+}
+
+#use {
+	color: purple;
+}
+
+#sell {
+	color: green;
+}
+
+#break {
+	color: red;
+}
+
+.completed-task {
+	text-decoration: line-through;
+}

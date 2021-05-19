@@ -1,0 +1,53 @@
+body {
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	font-size: 20px;
+}
+
+table {
+	margin: auto;
+	text-align: center;
+    border-width: 10px;
+    border-collapse: collapse;
+    margin-top: 50px;
+    margin-bottom: 50px;
+ }
+
+ th {
+ 	width: 300px;
+    border: 10px solid #add8e6;
+    font-size: 1.2em;
+ }
+
+ td {
+ 	width: 300px;
+    border: 10px solid #add8e6;
+ }
+
+img {
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+}
+
+ul {
+	text-align: justify;
+}
+
+li {
+	font-size: 0.8em;
+}
+
+button {
+	padding: 7px;
+	width: 100px;
+	border-radius: 5px;
+	cursor: pointer;
+	background-color: green;
+	color: white;
+	font-size: 0.95em;
+}
+
+.change-color {
+	color: #00008B;
+	font-weight: 800;
+}
